@@ -1,10 +1,10 @@
 tool-list:
   - title: editor
-    entry: Sublime Text 3
-    entry-anchor: "http://www.sublimetext.com/"
+    entry: Coda 2
+    entry-anchor: "https://panic.com/coda/"
     color: "#ad93c1"
     notes: |
-      I've used Sublime Text for most of my career as a frontend developer. It's blazing fast, extensible, and has a great community ecosystem.
+      I've used coda for some time since I am a designer and need something pretty to work in.
 
       # RESOURCES I RECOMMEND
 
@@ -31,6 +31,8 @@ tool-list:
     entry: Chrome
     entry-anchor: "https://www.google.com/chrome"
     color: "#93EF8F"
+    notes: |
+      I've used coda for some time since I am a designer and need something pretty to work in.
   - title: writing
     entry: Byword
     entry-anchor: "http://bywordapp.com/"
