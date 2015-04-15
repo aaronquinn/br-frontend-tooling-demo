@@ -11,3 +11,6 @@ It's a fictional app called "Toolcase" — a simple list for developers and desi
 5. Build the project with Grunt: `grunt`
 
 The project will be compiled to the `dist/` folder.
+
+CodeClimate
+{<img src="https://codeclimate.com/repos/552eae71e30ba0501c0082e8/badges/202632be572261c716d6/gpa.svg" />}[https://codeclimate.com/repos/552eae71e30ba0501c0082e8/feed] {<img src="https://codeclimate.com/repos/552eae71e30ba0501c0082e8/badges/202632be572261c716d6/coverage.svg" />}[https://codeclimate.com/repos/552eae71e30ba0501c0082e8/feed]
