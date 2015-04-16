@@ -12,4 +12,3 @@ module.exports = (grunt) ->
       dest: './dist/'
 
   grunt.loadNpmTasks 'assemble'
-

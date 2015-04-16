@@ -33,6 +33,3 @@ module.exports = (grunt) ->
 
   # Default task
   grunt.registerTask "default", "buildDev"
-  
-  grunt.loadNpmTasks('grunt-browser-sync');
-
